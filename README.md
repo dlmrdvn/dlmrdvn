@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @N_Dilmrdv
+- 👀 I’m interested in evth related to coding...
+- 🌱 I’m currently learning python ...
+- 📫 Reach me here ndlmrdv@mail.ru ...
+
+<!---
+dlmrdvn/dlmrdvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
